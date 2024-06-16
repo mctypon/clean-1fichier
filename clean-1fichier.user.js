@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         Clean 1fichier URL
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Cleans the URL for 1fichier links
+// @name         1fichier Cleaner
+// @namespace    Violentmonkey Scripts
+// @version      1.0
+// @description  Clean 1fichier URLs from affiliation codes
 // @author       mctypon
 // @match        https://1fichier.com/*
 // @run-at       document-start
 // @grant        none
+// @icon         https://asset.brandfetch.io/idJKXoZmwL/id_Wgx2TvS.png
 // ==/UserScript==
 
 (function() {
