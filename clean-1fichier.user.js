@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         1fichier Cleaner
 // @namespace    Violentmonkey Scripts
-// @version      1.0
+// @version      0.2
 // @description  Clean 1fichier URLs from affiliation codes
 // @author       mctypon
 // @match        https://1fichier.com/*
