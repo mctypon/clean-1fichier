@@ -8,6 +8,7 @@
 // @run-at       document-start
 // @grant        none
 // @icon         https://asset.brandfetch.io/idJKXoZmwL/id_Wgx2TvS.png
+// @updateURL    https://github.com/mctypon/clean-1fichier/raw/main/clean-1fichier.user.js
 // ==/UserScript==
 
 (function() {
